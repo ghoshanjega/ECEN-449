@@ -3,7 +3,11 @@
 <!--                                                         -->
 <!-- Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.   -->
 
+<<<<<<< HEAD
 <Project Version="7" Minor="5" Path="/home/gjaa.connect/Downloads/ECEN-449-master/lab1/jackpot/jackpot.xpr">
+=======
+<Project Version="7" Minor="5" Path="/home/gjaa.connect/ECEN449/lab1/jackpot/jackpot.xpr">
+>>>>>>> d01a2632b168652a191fcac3f98a1cd72568103e
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
     <Option Name="Id" Val="8c53df105fee4cdc9d3c7551fe603026"/>

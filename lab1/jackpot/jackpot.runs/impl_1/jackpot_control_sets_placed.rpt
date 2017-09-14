@@ -1,4 +1,5 @@
 Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.
+<<<<<<< HEAD
 ------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2015.2 (lin64) Build 1266856 Fri Jun 26 16:35:25 MDT 2015
 | Date         : Wed Sep 13 20:59:04 2017
@@ -7,6 +8,16 @@ Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.
 | Design       : jackpot
 | Device       : xc7z010
 ------------------------------------------------------------------------------------------------
+=======
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2015.2 (lin64) Build 1266856 Fri Jun 26 16:35:25 MDT 2015
+| Date         : Wed Sep 13 20:23:42 2017
+| Host         : apollo.ece.tamu.edu running 64-bit unknown
+| Command      : report_control_sets -verbose -file jackpot_control_sets_placed.rpt
+| Design       : jackpot
+| Device       : xc7z010
+------------------------------------------------------------------------------------
+>>>>>>> d01a2632b168652a191fcac3f98a1cd72568103e
 
 Control Set Information
 

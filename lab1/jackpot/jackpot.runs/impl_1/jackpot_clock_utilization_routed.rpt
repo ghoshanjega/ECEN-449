@@ -1,14 +1,25 @@
 Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.
+<<<<<<< HEAD
 -----------------------------------------------------------------------------------------------------
 | Tool Version      : Vivado v.2015.2 (lin64) Build 1266856 Fri Jun 26 16:35:25 MDT 2015
 | Date              : Wed Sep 13 20:59:14 2017
 | Host              : lin03-424cvlb.ece.tamu.edu running 64-bit CentOS Linux release 7.3.1611 (Core)
+=======
+------------------------------------------------------------------------------------------
+| Tool Version      : Vivado v.2015.2 (lin64) Build 1266856 Fri Jun 26 16:35:25 MDT 2015
+| Date              : Wed Sep 13 20:23:53 2017
+| Host              : apollo.ece.tamu.edu running 64-bit unknown
+>>>>>>> d01a2632b168652a191fcac3f98a1cd72568103e
 | Command           : report_clock_utilization -file jackpot_clock_utilization_routed.rpt
 | Design            : jackpot
 | Device            : 7z010-clg400
 | Speed File        : -1  PRODUCTION 1.11 2014-09-11
 | Temperature Grade : C
+<<<<<<< HEAD
 -----------------------------------------------------------------------------------------------------
+=======
+------------------------------------------------------------------------------------------
+>>>>>>> d01a2632b168652a191fcac3f98a1cd72568103e
 
 Clock Utilization Report
 

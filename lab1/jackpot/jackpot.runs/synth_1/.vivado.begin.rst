@@ -1,5 +1,9 @@
 <?xml version="1.0"?>
 <ProcessHandle Version="1" Minor="0">
+<<<<<<< HEAD
     <Process Command="vivado" Owner="gjaa.connect" Host="lin03-424cvlb.ece.tamu.edu" Pid="12240">
+=======
+    <Process Command="vivado" Owner="gjaa.connect" Host="apollo.ece.tamu.edu" Pid="17192">
+>>>>>>> d01a2632b168652a191fcac3f98a1cd72568103e
     </Process>
 </ProcessHandle>

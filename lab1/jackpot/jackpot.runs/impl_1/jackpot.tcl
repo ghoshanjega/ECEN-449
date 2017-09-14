@@ -48,6 +48,7 @@ set_msg_config -id {HDL 9-1654} -limit 100000
 start_step init_design
 set rc [catch {
   create_msg_db init_design.pb
+<<<<<<< HEAD
   set_param xicom.use_bs_reader 1
   debug::add_scope template.lib 1
   set_property design_mode GateLvl [current_fileset]
@@ -57,6 +58,16 @@ set rc [catch {
   set_property ip_output_repo /home/gjaa.connect/Downloads/ECEN-449-master/lab1/jackpot/jackpot.cache/ip [current_project]
   add_files -quiet /home/gjaa.connect/Downloads/ECEN-449-master/lab1/jackpot/jackpot.runs/synth_1/jackpot.dcp
   read_xdc /home/gjaa.connect/Downloads/ECEN-449-master/lab1/jackpot/jackpot.srcs/constrs_1/new/jackpot.xdc
+=======
+  debug::add_scope template.lib 1
+  set_property design_mode GateLvl [current_fileset]
+  set_property webtalk.parent_dir /home/gjaa.connect/ECEN449/lab1/jackpot/jackpot.cache/wt [current_project]
+  set_property parent.project_path /home/gjaa.connect/ECEN449/lab1/jackpot/jackpot.xpr [current_project]
+  set_property ip_repo_paths /home/gjaa.connect/ECEN449/lab1/jackpot/jackpot.cache/ip [current_project]
+  set_property ip_output_repo /home/gjaa.connect/ECEN449/lab1/jackpot/jackpot.cache/ip [current_project]
+  add_files -quiet /home/gjaa.connect/ECEN449/lab1/jackpot/jackpot.runs/synth_1/jackpot.dcp
+  read_xdc /home/gjaa.connect/ECEN449/lab1/jackpot/jackpot.srcs/constrs_1/new/jackpot.xdc
+>>>>>>> d01a2632b168652a191fcac3f98a1cd72568103e
   link_design -top jackpot -part xc7z010clg400-1
   close_msg_db -file init_design.pb
 } RESULT]

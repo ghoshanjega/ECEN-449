@@ -2,9 +2,16 @@
 # Vivado v2015.2 (64-bit)
 # SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
 # IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
+<<<<<<< HEAD
 # Start of session at: Wed Sep 13 20:58:43 2017
 # Process ID: 12376
 # Log file: /home/gjaa.connect/Downloads/ECEN-449-master/lab1/jackpot/jackpot.runs/impl_1/jackpot.vdi
 # Journal file: /home/gjaa.connect/Downloads/ECEN-449-master/lab1/jackpot/jackpot.runs/impl_1/vivado.jou
+=======
+# Start of session at: Wed Sep 13 20:23:19 2017
+# Process ID: 17471
+# Log file: /home/gjaa.connect/ECEN449/lab1/jackpot/jackpot.runs/impl_1/jackpot.vdi
+# Journal file: /home/gjaa.connect/ECEN449/lab1/jackpot/jackpot.runs/impl_1/vivado.jou
+>>>>>>> d01a2632b168652a191fcac3f98a1cd72568103e
 #-----------------------------------------------------------
 source jackpot.tcl -notrace

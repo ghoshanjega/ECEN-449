@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <GenRun Id="synth_1" LaunchPart="xc7z010clg400-1" LaunchTime="1505354296">
+=======
+<GenRun Id="synth_1" LaunchPart="xc7z010clg400-1" LaunchTime="1505352171">
+>>>>>>> d01a2632b168652a191fcac3f98a1cd72568103e
   <File Type="VDS-TIMING-PB" Name="jackpot_timing_summary_synth.pb"/>
   <File Type="VDS-TIMINGSUMMARY" Name="jackpot_timing_summary_synth.rpt"/>
   <File Type="RDS-DCP" Name="jackpot.dcp"/>

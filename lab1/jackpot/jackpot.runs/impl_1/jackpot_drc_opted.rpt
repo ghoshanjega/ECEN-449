@@ -1,10 +1,19 @@
 Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.
+<<<<<<< HEAD
 ------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2015.2 (lin64) Build 1266856 Fri Jun 26 16:35:25 MDT 2015
 | Date         : Wed Sep 13 20:59:03 2017
 | Host         : lin03-424cvlb.ece.tamu.edu running 64-bit CentOS Linux release 7.3.1611 (Core)
 | Command      : report_drc
 ------------------------------------------------------------------------------------------------
+=======
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2015.2 (lin64) Build 1266856 Fri Jun 26 16:35:25 MDT 2015
+| Date         : Wed Sep 13 20:23:41 2017
+| Host         : apollo.ece.tamu.edu running 64-bit unknown
+| Command      : report_drc
+------------------------------------------------------------------------------------
+>>>>>>> d01a2632b168652a191fcac3f98a1cd72568103e
 
 Report DRC
 

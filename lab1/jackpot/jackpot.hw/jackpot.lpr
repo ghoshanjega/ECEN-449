@@ -3,6 +3,10 @@
 <!--                                                              -->
 <!-- Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.        -->
 
+<<<<<<< HEAD
 <labtools version="1" minor="0">
   <HWSession Dir="hw_1" File="hw.xml"/>
 </labtools>
+=======
+<labtools version="1" minor="0"/>
+>>>>>>> d01a2632b168652a191fcac3f98a1cd72568103e
